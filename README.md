@@ -77,7 +77,7 @@ python script.py
 ![Terminal](Print_Valore_Terminal)
 
 ### Google Sheets preenchido automaticamente
-![Google Sheets](Captura%20de%20tela%202026-03-15%20023531.png)
+![Google Sheets](Print_Valore_Sheets)
 
 ---
 
