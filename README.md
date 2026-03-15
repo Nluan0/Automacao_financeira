@@ -74,10 +74,10 @@ python script.py
 ## 📸 Demonstração
 
 ### Terminal com os preços coletados
-![Terminal](Captura%20de%20tela%202026-03-15%20023531.png)
+![Terminal](Captura%20de%20tela%202026-03-15%20022946.png)
 
 ### Google Sheets preenchido automaticamente
-![Google Sheets](Captura%20de%20tela%202026-03-15%20022946.png)
+![Google Sheets](Captura%20de%20tela%202026-03-15%20023531.png)
 
 ---
 
