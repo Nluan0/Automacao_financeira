@@ -77,7 +77,7 @@ python script.py
 > _Adicione aqui um print do terminal mostrando os ativos e preços_
 
 ### Google Sheets preenchido automaticamente
-> _Adicione aqui um print da planilha com os dados_
+> __
 
 ---
 
