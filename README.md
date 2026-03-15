@@ -74,10 +74,10 @@ python script.py
 ## 📸 Demonstração
 
 ### Terminal com os preços coletados
-> _Adicione aqui um print do terminal mostrando os ativos e preços_
+![Terminal](Captura%20de%20tela%202026-03-15%20023531.png)
 
 ### Google Sheets preenchido automaticamente
-> __
+![Google Sheets](Captura%20de%20tela%202026-03-15%20022946.png)
 
 ---
 
