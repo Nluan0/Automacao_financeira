@@ -80,14 +80,6 @@ python script.py
 ![Google Sheets](Print_Valore_Sheets)
 
 ---
-
-## ⚠️ Atenção
-
-**Nunca suba o arquivo `credentials.json` para o GitHub!**
-Ele já está no `.gitignore` por segurança.
-
----
-
 ## 📬 Contato
 
 - GitHub: [@Nluan0](https://github.com/Nluan0)
