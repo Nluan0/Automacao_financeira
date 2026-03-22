@@ -1,10 +1,16 @@
-# 📈 Automação Financeira — Coleta de Cotações
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=AUTOMACAO+FINANCEIRA+%F0%9F%93%88;PLAYER%3A+NAT%C3%83+LUAN+%F0%9F%8E%AE" />
+</div>
 
-> Script Python que coleta automaticamente cotações de ações, FIIs e criptomoedas no **Google Finance** usando **Selenium**, e envia os resultados para o **Google Sheets** em tempo real.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Coleta+automatica+de+cotacoes+via+Selenium;Envia+dados+direto+para+o+Google+Sheets;Python+%7C+Selenium+%7C+Google+Cloud+%F0%9F%9A%80" />
+</div>
 
 ---
 
-## ✨ Funcionalidades
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Funcionalidades" />
+</div>
 
 - 🤖 Coleta automática de preços via Selenium
 - 📊 Envia os dados direto para o Google Sheets
@@ -14,7 +20,9 @@
 
 ---
 
-## 📋 Ativos monitorados
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%8B+Ativos+monitorados" />
+</div>
 
 | Ações | Criptomoedas |
 |-------|-------------|
@@ -24,16 +32,24 @@
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnologias" />
+</div>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Como configurar e rodar
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Como+configurar+e+rodar" />
+</div>
 
 ### 1. Clone o repositório
 ```bash
@@ -71,7 +87,9 @@ python script.py
 
 ---
 
-## 📸 Demonstração
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%B8+Demonstracao" />
+</div>
 
 ### Terminal com os preços coletados
 ![Terminal](Print_Valore_Terminal)
@@ -80,12 +98,21 @@ python script.py
 ![Google Sheets](Print_Valore_Sheets)
 
 ---
-## 📬 Contato
 
-- GitHub: [@Nluan0](https://github.com/Nluan0)
-- LinkedIn: [Natã Luan](https://www.linkedin.com/in/nat%C3%A3-luan-rodrigues-dos-santos-072145306/)
-- 🔗 [Meu Linktree](https://linktree-nluan.vercel.app)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%AC+Contato" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A3-luan-rodrigues-dos-santos-072145306/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nluan0)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree-nluan.vercel.app)
+
+</div>
 
 ---
 
-<p align="center">Feito com 💙 por <strong>Natã Luan</strong></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Feito+com+%F0%9F%92%99+por+Nat%C3%A3+Luan" />
+</div>
