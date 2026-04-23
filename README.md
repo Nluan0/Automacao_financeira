@@ -87,15 +87,7 @@ python script.py
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%B8+Demonstracao" />
-</div>
 
-### Terminal com os preços coletados
-![Terminal](Print_Valore_Terminal)
-
-### Google Sheets preenchido automaticamente
-![Google Sheets](Print_Valore_Sheets)
 
 ---
 
