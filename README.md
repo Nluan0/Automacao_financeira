@@ -85,8 +85,6 @@ ID_PLANILHA = "seu_id_aqui"
 python script.py
 ```
 
----
-
 
 
 ---
